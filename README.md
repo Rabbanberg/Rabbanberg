@@ -1,6 +1,6 @@
 # Hi, I'm Rabbani 👋
 
-🎓 Bachelor of Computer Science (Cybersecurity)  
+🎓 Bachelor of Computer Science (Cybersecurity) Fresh Grad
 
 ## 🛠️ Skills
 
