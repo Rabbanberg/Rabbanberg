@@ -12,9 +12,9 @@
 
 ### ShareSplit
 
-A secure multi-cloud file sharing and recovery system developed collaboratively as a 5-person Final Year Project
+A secure multi-cloud file sharing and recovery system developed collaboratively as a Final Year Project
 
-ShareSplit incorporates file encryption, Reed-Solomon coding, Shamir's Secret Sharing and multi-cloud storage across Google Drive, Dropbox, and AWS
+ShareSplit incorporates file encryption, Reed-Solomon coding, Shamir's Secret Sharing and multi-cloud storage across Google Drive, Dropbox and AWS
 
 **My contributions:**
 - Authentication and account management
